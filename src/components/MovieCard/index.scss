@@ -1,0 +1,30 @@
+#storybook-root {
+  .movie-card {
+    width: 299px;
+  }
+}
+#story--components-moviecard--un-loading-inner,
+#story--components-moviecard--on-loading-inner,
+#story--components-moviecard--on-loading--primary-inner {
+  .movie-card {
+    padding: 10px 368px;
+  }
+}
+.movie-card {
+  padding: 10px;
+  .skeleton-img {
+    margin-bottom: 10px;
+    .ant-skeleton {
+      width: 100%;
+      .ant-skeleton-image {
+        width: unset;
+        height: 200px;
+      }
+    }
+  }
+  .ant-card-cover {
+    img {
+      width: inherit;
+    }
+  }
+}

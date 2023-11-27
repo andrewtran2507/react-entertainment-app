@@ -1,0 +1,95 @@
+.sbdocs-content {
+  .movie-detail-card {
+    height: 460px;
+  }
+}
+@mixin normal-color-1 {
+  color: #FFF;
+  text-shadow: #3F51B5 1px 0 5px;
+}
+
+@mixin normal-color-2 {
+  text-shadow: #eaa6bd 1px 0 5px;
+  color: #fff;
+}
+
+.movie-detail-body {
+  .ant-card-cover {
+    position: absolute;
+    >img {
+      opacity: 0.7;
+    }
+  }
+  .ant-card-body {
+    position: relative;
+    z-index: 100;
+    .content {
+      border-bottom: 1px solid var(--primaryColor);
+      background-position: left calc((53vw - 170px) - 470px) top;
+      background-size: cover;
+      .mask {
+        background: linear-gradient(to right, rgb(33 6 6) calc(42vw - 170px - 340px), rgb(225 246 10 / 22%) 50%, rgb(53 18 11 / 84%) 100%);
+        .ant-image {
+          border-width: 0;
+          overflow: hidden;
+          border-radius: 8px;
+          margin: 10px;
+        }
+        .detail-group {
+          padding: 10px;
+          width: 100%;
+          .movie-title {
+            @include normal-color-1;
+            padding: 0;
+            margin: 0;
+            font-size: 16px;
+          }
+          .main {
+            font-size: 24px;
+          }
+          .info {
+            margin: 5px 0;
+            .ant-descriptions {
+              width: 650px;
+            }
+            .ant-descriptions-item-label {
+              font-weight: 600;
+              @include normal-color-2;
+            }
+            .ant-descriptions-item-content {
+              @include normal-color-1;
+            }
+            .ant-descriptions-row > td {
+              padding-bottom: unset;
+            }
+
+          }
+          .text-header {
+            font-weight: 600;
+          }
+        }
+      }
+    }
+  }
+}
+.cast-and-producer {
+  padding: 20px;
+  .ant-descriptions-item-label {
+    font-weight: 600;
+    color: black;
+  }
+  .ant-descriptions-item-content {
+    display: unset !important;
+  }
+  .ant-card-meta-description {
+    font-size: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .ant-card-cover {
+    img {
+      width: inherit;
+    }
+  }
+}

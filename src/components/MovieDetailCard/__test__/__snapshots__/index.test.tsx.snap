@@ -1,0 +1,377 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Movie Detail Card Component Test to match snapshot of component 1`] = `
+<DocumentFragment>
+  <div
+    class="ant-row css-dev-only-do-not-override-2i2tap"
+    style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+  >
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+    <div
+      class="ant-col ant-col-18 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-header"
+        >
+          <span
+            class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+          />
+        </div>
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 50%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-header"
+        >
+          <span
+            class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+          />
+        </div>
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 50%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+    <div
+      class="ant-col ant-col-18 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    >
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+      <div
+        class="ant-skeleton ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+      >
+        <div
+          class="ant-skeleton-content"
+        >
+          <h3
+            class="ant-skeleton-title"
+            style="width: 38%;"
+          />
+          <ul
+            class="ant-skeleton-paragraph"
+          >
+            <li />
+            <li />
+            <li
+              style="width: 61%;"
+            />
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-3 css-dev-only-do-not-override-2i2tap"
+      style="padding-left: 8px; padding-right: 8px;"
+    />
+  </div>
+</DocumentFragment>
+`;

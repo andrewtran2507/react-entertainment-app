@@ -1,0 +1,1296 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Home Page with data Should match snapshot of Home page 1`] = `
+<DocumentFragment>
+  <div
+    class="main-layout"
+  >
+    <div>
+      <div
+        class="home-page"
+      >
+        <div
+          class="ant-row css-dev-only-do-not-override-2i2tap"
+          style="margin-left: -4px; margin-right: -4px; row-gap: 16px;"
+        >
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-col ant-col-xs-8 ant-col-sm-8 ant-col-md-6 ant-col-xl-4 ant-col-xxl-3 css-dev-only-do-not-override-2i2tap"
+            style="padding-left: 4px; padding-right: 4px;"
+          >
+            <div
+              class="movie-card"
+            >
+              <div
+                class="skeleton-movie-card"
+              >
+                <div
+                  class="skeleton-img"
+                >
+                  <div
+                    class="ant-skeleton ant-skeleton-element ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                  >
+                    <div
+                      class="ant-skeleton-image"
+                    >
+                      <svg
+                        class="ant-skeleton-image-svg"
+                        viewBox="0 0 1098 1024"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ant-skeleton-image-path"
+                          d="M365.714286 329.142857q0 45.714286-32.036571 77.677714t-77.677714 32.036571-77.677714-32.036571-32.036571-77.677714 32.036571-77.677714 77.677714-32.036571 77.677714 32.036571 32.036571 77.677714zM950.857143 548.571429l0 256-804.571429 0 0-109.714286 182.857143-182.857143 91.428571 91.428571 292.571429-292.571429zM1005.714286 146.285714l-914.285714 0q-7.460571 0-12.873143 5.412571t-5.412571 12.873143l0 694.857143q0 7.460571 5.412571 12.873143t12.873143 5.412571l914.285714 0q7.460571 0 12.873143-5.412571t5.412571-12.873143l0-694.857143q0-7.460571-5.412571-12.873143t-12.873143-5.412571zM1097.142857 164.571429l0 694.857143q0 37.741714-26.843429 64.585143t-64.585143 26.843429l-914.285714 0q-37.741714 0-64.585143-26.843429t-26.843429-64.585143l0-694.857143q0-37.741714 26.843429-64.585143t64.585143-26.843429l914.285714 0q37.741714 0 64.585143 26.843429t26.843429 64.585143z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-skeleton ant-skeleton-with-avatar ant-skeleton-active css-dev-only-do-not-override-2i2tap"
+                >
+                  <div
+                    class="ant-skeleton-header"
+                  >
+                    <span
+                      class="ant-skeleton-avatar ant-skeleton-avatar-lg ant-skeleton-avatar-circle"
+                    />
+                  </div>
+                  <div
+                    class="ant-skeleton-content"
+                  >
+                    <h3
+                      class="ant-skeleton-title"
+                      style="width: 50%;"
+                    />
+                    <ul
+                      class="ant-skeleton-paragraph"
+                    >
+                      <li />
+                      <li />
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-float-btn-group css-dev-only-do-not-override-2i2tap f-btn-g ant-float-btn-group-circle"
+        >
+          <button
+            class="css-dev-only-do-not-override-2i2tap ant-float-btn ant-float-btn-default ant-float-btn-circle"
+            type="button"
+          >
+            <span
+              class="ant-badge css-dev-only-do-not-override-2i2tap"
+            >
+              <div
+                class="ant-float-btn-body"
+              >
+                <div
+                  class="ant-float-btn-content"
+                >
+                  <div
+                    class="ant-float-btn-icon"
+                  >
+                    <span
+                      aria-label="appstore-add"
+                      class="anticon anticon-appstore-add"
+                      role="img"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        data-icon="appstore-add"
+                        fill="currentColor"
+                        focusable="false"
+                        height="1em"
+                        viewBox="64 64 896 896"
+                        width="1em"
+                      >
+                        <defs>
+                          <style />
+                        </defs>
+                        <path
+                          d="M464 144H160c-8.8 0-16 7.2-16 16v304c0 8.8 7.2 16 16 16h304c8.8 0 16-7.2 16-16V160c0-8.8-7.2-16-16-16zm-52 268H212V212h200v200zm452-268H560c-8.8 0-16 7.2-16 16v304c0 8.8 7.2 16 16 16h304c8.8 0 16-7.2 16-16V160c0-8.8-7.2-16-16-16zm-52 268H612V212h200v200zm52 132H560c-8.8 0-16 7.2-16 16v304c0 8.8 7.2 16 16 16h304c8.8 0 16-7.2 16-16V560c0-8.8-7.2-16-16-16zm-52 268H612V612h200v200zM424 712H296V584c0-4.4-3.6-8-8-8h-48c-4.4 0-8 3.6-8 8v128H104c-4.4 0-8 3.6-8 8v48c0 4.4 3.6 8 8 8h128v128c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V776h128c4.4 0 8-3.6 8-8v-48c0-4.4-3.6-8-8-8z"
+                        />
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <sup
+                class="ant-scroll-number ant-badge-count ant-badge-multiple-words"
+                data-show="true"
+                title="20"
+              >
+                <bdi>
+                  <span
+                    class="ant-scroll-number-only"
+                    style="transition: none;"
+                  >
+                    <span
+                      class="ant-scroll-number-only-unit current"
+                    >
+                      2
+                    </span>
+                  </span>
+                  <span
+                    class="ant-scroll-number-only"
+                    style="transition: none;"
+                  >
+                    <span
+                      class="ant-scroll-number-only-unit current"
+                    >
+                      0
+                    </span>
+                  </span>
+                </bdi>
+              </sup>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
